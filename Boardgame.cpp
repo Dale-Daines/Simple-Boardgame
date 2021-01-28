@@ -11,7 +11,8 @@ lost or damaged.
 //16998416
 //OOP Assignment 1
 
-
+//Game is similar to Hex
+//Objective is to be the first player to link their sides (Top to Bottom or Left to Right)
 
 
 #include <iostream>
